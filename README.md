@@ -271,4 +271,4 @@ This repository serves as the official landing page for AdwCleaner. The software
 **Get the most recent version of AdwCleaner today!**
 
 ---
-**Last updated:** 2026-10-05 23:35:52 UTC
+**Last updated:** 2026-10-06 04:22:37 UTC
